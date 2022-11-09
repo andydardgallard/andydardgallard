@@ -14,4 +14,5 @@
 <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/> 
  
 
-![Top Langs](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andydardgallard&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
