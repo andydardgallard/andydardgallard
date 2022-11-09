@@ -8,8 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/andydardgallard/seismic_fitness_visualisation" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"></a>
 <a href="https://github.com/andydardgallard/21_School_CPP_Piscine" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="CPP"></a>
 <a href="https://github.com/andydardgallard/Bitmex_Trading_bot" target="_blank"><img src="https://img.icons8.com/color/c-sharp-logo" alt="C-SHARP"/></a>
-<--<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/java.png" alt="JAVA"></a>-->
-<img src="https://img.icons8.com/color/python" alt="PYTHON"/>
+<a href="https://github.com/andydardgallard/Crypto_Bitmex_Trading_Bot" target="_blank"><img src="https://img.icons8.com/color/python" alt="PYTHON"/></a>
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="DOCKER"/>
 <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="KUBERNETES"/>
 <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="BASH"/> 
