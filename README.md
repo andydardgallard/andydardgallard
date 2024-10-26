@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Andy
 
-- 👩‍🎓 I'm studying at school 21
-- 📫 How to reach me: dgallard@student.21-school.ru
+- 👩‍🎓 I'm studying at ecole 42
+- 📫 How to reach me: andrei.dar@inbox.ru
 
 ### What do I study:
 
